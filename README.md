@@ -2,7 +2,6 @@ cssrefresh
 ===
 
 Automatically refresh CSS files
----
 
 Based on http://cssrefresh.frebsite.nl/
 
